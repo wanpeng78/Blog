@@ -3,12 +3,14 @@ slug: Git-commit
 title: Git commit代码提交规范
 author: Stitch-Zhang
 author_title: An iddle programer
-author_url: https://github.com/endiliey
+author_url: https://github.com/Stitch-Zhang
 author_image_url: https://avatars1.githubusercontent.com/u/61350804?s=460&v=4
 tags: [Git, Github,Gitee,Gitlab]
 ---
+
 ## Commit规范
 合格的commit能够以精炼的言语对每次提交的代码做出总结，辅助开发者理解项目进度，流程。
+<!--truncate-->
 ### Example
 ``` 
 feat: allow overriding of webpack config
