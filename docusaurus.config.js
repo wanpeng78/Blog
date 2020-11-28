@@ -93,7 +93,7 @@ module.exports = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/stitch-zhang/blog/edit/master/blog/',
+            'https://github.com/stitch-zhang/blog/edit/master/',
             blogTitle: 'Docusaurus blog!',
             blogDescription: 'A docusaurus powered blog!',
         },
